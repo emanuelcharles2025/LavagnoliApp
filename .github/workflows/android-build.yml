@@ -1,0 +1,4 @@
+cd C:\Users\Administrator\Documents\LavagnoliApp_FullProject
+mkdir .github
+mkdir .github\workflows
+notepad .github\workflows\android-build.yml
