@@ -1,0 +1,14 @@
+# Diretórios de build
+/build
+/app/build
+
+# Gradle
+.gradle/
+**/local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Arquivos sensíveis
+*.keystore
